@@ -158,3 +158,8 @@ Este proyeccto nos ha brindado valiosas lecciones sobre la importancia de la pla
 Se recomienda establecer un plan de mantenimiento continuo para la base de datos que incluya actulizaciónes preiódicas, monitoreo constante a la integridad de los datos 
 Considerar la creacion de una interfaz de usuarios para poder hacer una abse de datos más intuitica y accesible tanto para el personal electoral como para los ciudadanos,
 Realizar evaluaciones regulares de seguridad para identificar posibles vulnerabilidades y garantizar la protección continua de la base de datos contra amenazas cibernéticas
+
+#Recomendaciones 
+Se recomienda establecer un plan de mantenimiento continuo para la base de datos que incluya actulizaciónes preiódicas, monitoreo constante a la integridad de los datos 
+Considerar la creacion de una interfaz de usuarios para poder hacer una abse de datos más intuitica y accesible tanto para el personal electoral como para los ciudadanos,
+Realizar evaluaciones regulares de seguridad para identificar posibles vulnerabilidades y garantizar la protección continua de la base de datos contra amenazas cibernéticas
