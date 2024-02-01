@@ -1,4 +1,4 @@
-.png)
+![](https://qiu.itq.edu.ec/Principal/imgLogin/ITQ.png)
 # PROYECTO FINAL
 ###Asignatura
 Administracion de base de datos 
